@@ -1,4 +1,4 @@
-using OpenFeature.Contrib.Flagd;
+using OpenFeature.Providers.Flagd;
 
 var builder = DistributedApplication.CreateBuilder(args);
 
